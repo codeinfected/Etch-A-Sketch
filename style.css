@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+canvas {
+  border: 10px solid #5172b9;
+  border-radius: 5px;
+}
+
+.clear {
+  color: white;
+  background-color: #5172b9;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+}
